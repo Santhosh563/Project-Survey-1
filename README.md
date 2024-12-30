@@ -77,13 +77,13 @@ High-paying sectors: Technology and Healthcare.
 
 Other industries such as Finance and Real Estate show lower aggregate salaries.
 
+![Data Professional Survey 2024-12-29 04 28 11](https://github.com/user-attachments/assets/f9c5df9e-ab24-4d48-b3e1-f4fc90e89b03)
+
 By Job Title:
 
 Data Scientists command the highest salaries.
 
 Other roles such as Data Analysts and Engineers show steady growth potential.
-
-![Data Professional Survey 2024-12-29 04 28 11](https://github.com/user-attachments/assets/f9c5df9e-ab24-4d48-b3e1-f4fc90e89b03)
 
 ![Data Professional Survey 2024-12-29 04 32 05](https://github.com/user-attachments/assets/b766fb7b-f582-48f3-8cb2-1d5e027e3d92)
 
