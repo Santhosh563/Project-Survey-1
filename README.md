@@ -3,7 +3,7 @@
 DashBoard Link![Data Professional Survey 2024-12-27 04 05 48](https://github.com/user-attachments/assets/7458c78c-6b87-45db-a4ac-1f1b6543eef8)
 
 
-1. ## Objective
+## 1.  Objective
 
 To understand the demographics, professional roles, salary trends, and programming preferences of data professionals.
 
@@ -11,13 +11,13 @@ To analyze geographic distribution and gender representation within the industry
 
 To identify key insights that can inform industry trends and future initiatives.
 
-2. ## Summary
+## 2.  Summary
 
 This survey, comprising 630 respondents, highlights various aspects of the data profession. Key focus areas include job titles, salary distributions, favorite programming languages, and demographic breakdowns by gender and country. Data Scientists dominate the profession, with Python being the most preferred programming language. The survey also underscores notable geographic and gender disparities within the field.
 
-3. ## Detailed Insights
+## 3.  Detailed Insights
 
-3.1 Gender Distribution
+## 3.1 Gender Distribution
 
 Male vs. Female Representation:
 
@@ -25,12 +25,12 @@ Males: 468 (74.29%).
 
 Females: 162 (25.71%).
 
-Observation:
+## Observation:
 
 The data profession is predominantly male, indicating a need for initiatives aimed at fostering gender diversity.
 ![Data Professional Survey 2024-12-27 05 02 25](https://github.com/user-attachments/assets/5e7ba908-35d7-4081-8ff1-74d2bae92666)
 
-3.2 Geographic Distribution
+## 3.2 Geographic Distribution
 
 Survey Takers by Country:
 
@@ -50,7 +50,7 @@ India shows a higher male-to-female ratio compared to other countries.
 ![Data Professional Survey 2024-12-29 04 23 42](https://github.com/user-attachments/assets/c9ff24f2-53a0-4313-b324-a793c829e09b)
 
 
-3.3 Job Titles of Respondents
+## 3.3 Job Titles of Respondents
 
 Prominent Roles:
 
@@ -69,7 +69,7 @@ Data Scientist is the most common job title, reflecting its importance in the in
 ![Data Professional Survey 2024-12-29 04 24 48](https://github.com/user-attachments/assets/a44ccf2d-88d5-4e9f-9094-3a2d9ba5f773)
 
 
-3.4 Salary Analysis
+## 3.4 Salary Analysis
 
 By Industry:
 
@@ -88,7 +88,7 @@ Other roles such as Data Analysts and Engineers show steady growth potential.
 ![Data Professional Survey 2024-12-29 04 32 05](https://github.com/user-attachments/assets/b766fb7b-f582-48f3-8cb2-1d5e027e3d92)
 
 
-3.5 Programming Language Preferences
+## 3.5 Programming Language Preferences
 
 Top Languages:
 
@@ -101,7 +101,7 @@ Python’s widespread adoption underscores its central role in data-related fiel
 ![Data Professional Survey 2024-12-29 04 29 37](https://github.com/user-attachments/assets/77975605-729e-4514-9fc2-9a472f886dc4)
 
 
-3.6 Insights by Country
+## 3.6 Insights by Country
 
 Job Titles by Country:
 
@@ -119,7 +119,7 @@ Python is universally popular, with regional variations in secondary preferences
 ![Data Professional Survey 2024-12-29 04 29 37](https://github.com/user-attachments/assets/d306a476-bbd0-4ee7-bc5d-a06591455148)
 
 
-4. ## Conclusion
+## 4. Conclusion
 
 Key Takeaways:
 
